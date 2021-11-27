@@ -6,8 +6,8 @@ Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Credits
 
-This repo contains my work for this specialization. The code base, quiz questions and diagrams are taken from the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning), unless specified otherwise.
+This repo contains my work for this specialization. The code base is taken from the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning), unless specified otherwise. This course is a treasure by the deeplearning.ai team.
 
 ## Disclaimer
 
-I recognize the time people spend on building intuition. The solutions uploaded here are **only for reference**. Please do not copy any part of the code as-is (the programming assignments are fairly easy if you read the instructions carefully). Similarly, try out the quizzes yourself before you refer to the quiz solutions. This course is a treasure by the deeplearning.ai team.
+I recognize the time people spend on building intuition. The solutions uploaded here are only for reference. Please do not copy any part of the code as-is.
