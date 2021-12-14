@@ -28,7 +28,7 @@ This repo is created in 2021 and includes developments in deep learning and prog
   - [Week 1 - PA 2 - Regularization](https://github.com/pashazgit/coursera-deep-learning-specialization/tree/main/C2%20-%20Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week1/A2%20-%20Regularization)
   - [Week 1 - PA 3 - Gradient Checking](https://github.com/pashazgit/coursera-deep-learning-specialization/tree/main/C2%20-%20Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week1/A3%20-%20Gradient%20Checking)
   - [Week 2 - PA - Optimization Methods](https://github.com/pashazgit/coursera-deep-learning-specialization/tree/main/C2%20-%20Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week2/Optimization%20Methods)
-  - [Week 3 - PA - TensorFlow Tutorial](hhttps://github.com/pashazgit/coursera-deep-learning-specialization/tree/main/C2%20-%20Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week3/TensorFlow%20Introduction)
+  - [Week 3 - PA - TensorFlow Tutorial](https://github.com/pashazgit/coursera-deep-learning-specialization/tree/main/C2%20-%20Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week3/TensorFlow%20Introduction)
 
 ### Course 3: Structuring Machine Learning Projects
 
